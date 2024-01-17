@@ -1,2 +1,2 @@
 -- it lites database
-SHOW DATABASE;
+SHOW DATABASES;
