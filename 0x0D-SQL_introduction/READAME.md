@@ -1,1 +1,0 @@
-itroduction to sql.
